@@ -1,0 +1,67 @@
+# deb.debian.org
+# security.debian.org
+# archive.debian.org
+debian.org
+debian.map.fastlydns.net
+
+# ports.ubuntu.com
+# archive.ubuntu.com
+# security.ubuntu.com
+ubuntu.com
+
+dl-cdn.alpinelinux.org
+
+registry.npmjs.org
+yarnpkg.com
+npmjs.com
+nodejs.org
+
+pypi.org
+files.pythonhosted.org
+
+
+anaconda.com
+anaconda.org
+
+astral.sh
+
+# proxy.golang.org
+# sum.golang.org
+golang.org
+
+# github.com
+# api.github.com
+# raw.githubusercontent.com
+# objects.githubusercontent.com
+# codeload.github.com
+github.com
+githubusercontent.com
+
+# registry-1.docker.io
+# auth.docker.io
+# production.cloudflare.docker.com
+docker.io
+docker.com
+
+ghcr.io
+
+gcr.io
+
+quay.io
+
+repo.maven.apache.org
+
+api.nuget.org
+
+crates.io
+# index.crates.io
+rust-lang.org
+
+huggingface.co
+hf.co
+
+nixos.org
+
+melpa.org
+elpa.gnu.org
+elpa.nongnu.org

@@ -1,0 +1,7 @@
+www.ntyou.cc
+api4.thetvdb.com
+www.themoviedb.org
+api.themoviedb.org
+image.tmdb.org
+dl.google.com
+ccwu.cc
